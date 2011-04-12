@@ -12,8 +12,8 @@ Dependancies
 Installation
 * Copy CasAngelClient directory to an appropriate deployment location
 * Create a new virtual directory pointing to the deployment location
-* Configure core CAS Client - see sample configuration is in the web.conf file
-* Configure CasAngelClient - see sample configuration is in the web.conf file
+* Configure core CAS Client - see sample configuration in the web.conf file
+* Configure CasAngelClient - see sample configuration in the web.conf file
 
 
 
